@@ -1,2 +1,3 @@
-.venv
-.bucketlist.db
+venv
+bucketlist.db
+.idea
